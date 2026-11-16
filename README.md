@@ -47,22 +47,12 @@
 <p align="center">
   <samp>「 每一次 commit，都是往前的一小步。 」</samp>
 </p>
-## My contributions
+<h2>My contributions</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
-    />
-    <img
-      alt="貪食蛇吃掉我的 GitHub 貢獻格子"
-      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/PatrickH0307/PatrickH0307/output/github-snake-dark.svg"
+    alt="貪食蛇貢獻動畫"
+    width="100%"
+  />
 </p>
